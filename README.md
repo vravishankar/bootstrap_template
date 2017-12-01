@@ -1,1 +1,2 @@
-"#Bootstrap Template"  
+#Bootstrap Starter Template
+
